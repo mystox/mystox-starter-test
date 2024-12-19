@@ -1,0 +1,7 @@
+tech\mystox\framework\api\test\entity\OperaParam.class
+tech\mystox\framework\api\test\EntityService.class
+tech\mystox\framework\api\test\entity\ReturnEntity.class
+tech\mystox\framework\api\test\BroadcastService.class
+tech\mystox\framework\api\test\PerformanceService.class
+tech\mystox\framework\api\test\entity\ParamEnum.class
+tech\mystox\framework\api\test\LocalService.class
